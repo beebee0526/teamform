@@ -1,0 +1,13 @@
+# 비밀 값
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+# 압축 파일
+*.zip
+.DS_Store

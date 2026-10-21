@@ -1,0 +1,9 @@
+[server]
+runOnSave = false
+
+[client]
+# 예상하지 못한 오류가 나도 화면에는 오류 종류만 보이게 함(오류 글에 DB 주소 일부가 섞여 나오지 않게)
+showErrorDetails = "type"
+
+[browser]
+gatherUsageStats = false
